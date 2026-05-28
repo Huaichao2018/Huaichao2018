@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Huaichao2018
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Huaichao Luo (罗怀超)
 
-<!---
-Huaichao2018/Huaichao2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Associate Senior Technician @ Department of Clinical Laboratory, Sichuan Cancer Hospital & Institute.
+
+My research bridges **platelets**, **tumor microenvironment**, **bioinformatics**, and **immunology**, with a strong focus on lung cancer and early detection.
+
+Currently developing open tools and databases in **Clinlabomics** and multi-omics integration.
+
+Always open to collaboration on cancer bioinformatics, TCR analysis, and platelet-related projects.
+
+📍 Chengdu, China
